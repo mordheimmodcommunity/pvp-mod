@@ -1,2 +1,3 @@
-# pvp-mod
-Rank 10 PvP Mod
+# Rank 10 PvP Mod
+
+:warning: ONLY USE WITH NEWLY CREATED PVP WARBANDS OR IT PERMANETNLY STOPS STONE REQUESTS :warning:
